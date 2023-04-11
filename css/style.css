@@ -2,3 +2,9 @@
     margin: 0;
     padding: 0;
 }
+
+section{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1rem;
+}
